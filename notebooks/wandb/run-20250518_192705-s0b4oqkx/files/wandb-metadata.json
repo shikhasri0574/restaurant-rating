@@ -1,0 +1,27 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.12.6",
+  "startedAt": "2025-05-18T13:57:06.848069Z",
+  "program": "c:\\Users\\shikh\\OneDrive\\Desktop\\Restaurant rating\\notebooks\\model.ipynb",
+  "codePath": "model.ipynb",
+  "email": "shin5704chan@gmail.com",
+  "root": "c:\\Users\\shikh\\OneDrive\\Desktop\\Restaurant rating\\notebooks",
+  "host": "SHIKHA",
+  "executable": "c:\\Users\\shikh\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "codePathLocal": "model.ipynb",
+  "cpu_count": 10,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "510876708864",
+      "used": "204337938432"
+    }
+  },
+  "memory": {
+    "total": "16858472448"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 12
+  }
+}
